@@ -1,0 +1,4 @@
+PHP = PHP Hypertext Preprocessor
+CSS = Cascading Style Sheets
+HTML = Hyper Text Markup Language
+SQL = Structured Query Language
